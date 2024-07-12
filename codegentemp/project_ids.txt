@@ -1,0 +1,8 @@
+C:\Users\saksh\OneDrive\Documents\PSoC Creator\game\endSemProject.cydsn\endSemProject.cyprj|76fb73c7-9edf-4c93-86a2-adcc716864fc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|ea6796de-b304-4a77-ad56-419e618af83a
+C:\Users\saksh\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|fd83cd35-9240-4f1b-9be2-e5cf1081c9ca
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|09fcce62-5a32-46d8-8675-11b8d33e71c9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|3ba920e9-3801-4b23-8c26-11b0c0d4caed
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|799eda7f-e237-42f1-80ce-fbfc9f9d96dc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|3b6f5813-a563-46e0-9a68-2e46d0fb80c4
+C:\Users\saksh\OneDrive\Documents\PSoC Creator\game\CapSense_CSD_Design01.cydsn\CapSense_CSD_Design01.cyprj|4e280b40-2c77-41ce-a56b-2d83e7ce719d
